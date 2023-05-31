@@ -5,5 +5,5 @@ void main(List<String> arguments) {
     stdout.write('${" " * j}${" *" * i}\n');
   }
 
-  print('ZAFARBEK');
+  print("Bollar nima gap Qachon Dars qilamiz 🖋️");
 }
