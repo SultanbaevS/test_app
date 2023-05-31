@@ -1,5 +1,6 @@
 import 'dart:io';
 
+import 'package:lesson_5/developers.dart';
 import 'package:lesson_5/my_functions/sum.dart';
 
 void main(List<String> arguments) {
@@ -14,4 +15,6 @@ void main(List<String> arguments) {
   print("Ustoz biz gitni o'rgandi!");
 
   print("Ustoz biz gitni o'rgandi!");
+
+  projectDevelopers();
 }

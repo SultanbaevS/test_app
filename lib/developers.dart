@@ -1,4 +1,5 @@
-const String abdulboriy = """
+void projectDevelopers() {
+  const String abdulboriy = """
            _         _       _ _                _       
      /\   | |       | |     | | |              (_)      
     /  \  | |__   __| |_   _| | |__   ___  _ __ _ _   _ 
@@ -8,7 +9,7 @@ const String abdulboriy = """
                                                    __/ |
                                                   |___/ 
 """;
-const String saidrasul = """
+  const String saidrasul = """
  _____       _     _                     _ 
 /  ___|     (_)   | |                   | |
 \ `--.  __ _ _  __| |_ __ __ _ ___ _   _| |
@@ -17,7 +18,7 @@ const String saidrasul = """
 \____/ \__,_|_|\__,_|_|  \__,_|___/\__,_|_|
 """;
 
-const String zafarbek = """
+  const String zafarbek = """
  ______       __           _          _    
 |___  /      / _|         | |        | |   
    / /  __ _| |_ __ _ _ __| |__   ___| | __
@@ -25,3 +26,6 @@ const String zafarbek = """
 ./ /__| (_| | || (_| | |  | |_) |  __/   < 
 \_____/\__,_|_| \__,_|_|  |_.__/ \___|_|\_\
 """;
+
+  print('$abdulboriy\n$saidrasul\n$zafarbek');
+}
