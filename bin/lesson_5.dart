@@ -17,4 +17,6 @@ void main(List<String> arguments) {
   print("Ustoz biz gitni o'rgandi!");
 
   projectDevelopers();
+
+  print('Hammaga alohida branch ochildi ushanda ishlela!!!!!');
 }
