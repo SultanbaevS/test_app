@@ -6,4 +6,6 @@ void main(List<String> arguments) {
   }
 
   print("Bollar nima gap Qachon Dars qilamiz 🖋️");
+
+  print("Ustoz biz gitni o'rgandi!");
 }
